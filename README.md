@@ -38,7 +38,7 @@ When I’m not coding, you’ll find me:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/vignesh-keerthi-6322702a6)
-
+- [Kaggle](https://www.kaggle.com/vignesh041)
 ---
 
 _Thanks for visiting my profile! Let’s connect, collaborate, and grow together in the world of data science._
