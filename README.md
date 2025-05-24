@@ -1,4 +1,4 @@
-# Hi there, I’m Vicky! 👋
+# Hi there, I’m Vignesh Keerthi [Vicky]! 👋
 
 I'm an aspiring **Data Scientist** passionate about uncovering insights from data and leveraging technology to solve real-world problems. With growing expertise in **Python**, **R**, and **AI**, I'm eager to contribute to impactful data-driven projects.
 
